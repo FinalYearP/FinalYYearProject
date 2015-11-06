@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onRestart() {
         super.onRestart();
         //Log.v(mytag,"onRestart  Function Call");
-        Toast.makeText(getApplicationContext(), "Welcome back", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "Abdullah Kanjar", Toast.LENGTH_LONG).show();
     }
 
     @Override
