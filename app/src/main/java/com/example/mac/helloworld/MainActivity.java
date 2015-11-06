@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Button close = (Button) findViewById(R.id.closebutton);
         start.setOnClickListener(this);
         close.setOnClickListener(this);
+System.out.println("danish");
     }
 
     @Override
